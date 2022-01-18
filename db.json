@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "userId": "1",
+      "userName": "Ivan Petrov",
+      "userRole": [
+        { "id": 1, "type": "lecturer" },
+        { "id": 2, "type": "listener" }
+      ],
+      "dateRegistered": "",
+      "userDatefBirth": "2017-05-15",
+      "userPassword": "",
+      "userE-mail": "test@gmail.com",
+      "isModerator": false
+    },
+    {
+      "userId": "2",
+      "userName": "Alexander Smironv",
+      "userRole": [
+        { "id": 1, "type": "lecturer" },
+        { "id": 2, "type": "listener" }
+      ],
+      "dateRegistered": "",
+      "userDateOfBirth": "2019-05-15",
+      "userPassword": "",
+      "userE-mail": "test@gmail.com",
+      "isModerator": false
+    }
+  ]
+}
